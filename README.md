@@ -7,3 +7,5 @@ bnj!je m'appelle mariem.je suis etudiante en 1ére année en si
 -j'aime la programmation
 ##mon lien preferé
 [visiter GitHub](https://github.com)
+##mes objectifs ce semestre
+-améliorer mes compéteces en informatique
